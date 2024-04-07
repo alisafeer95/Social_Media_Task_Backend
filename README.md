@@ -1,0 +1,2 @@
+# Social_Media_Task_Backend
+This is a backend Project which includes API's for a social media task. This project enables users to register,login,create posts, like posts, comment on posts,reply to individual comments, and like individual comments as well. Moreover, a real time notification system is implemented using firebase and sockets. As, the sockets needs to be implemented on the front-end side also to emit events but this is only the backend implementation. 
